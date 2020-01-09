@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewMakanan</string>
+    <string name="country_name">Name</string>
+    <string name="country_description">keterangan</string>
+</resources>
